@@ -1,2 +1,5 @@
-# python-data-science-learning
-My Python Data Science learning journey (Sanbercode training)
+# Python Data Science Learning Journey
+
+
+Topics covered:
+- Python Introduction
