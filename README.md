@@ -3,7 +3,7 @@
 
 # 🐍 Python Data Science Learning Journey
 
-> *A structured learning repository documenting my transition into data science — built on 7 years of hands-on experience in enterprise IT systems.*
+> *A structured learning repository documenting my transition into data science — built on 6 years of hands-on experience in enterprise IT systems.*
 
 ---
 
